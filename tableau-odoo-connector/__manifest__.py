@@ -3,11 +3,11 @@
     'name': "Tableau Connector",
 
     'summary': """
-       	  Connects your Tableau directly with Odoo. Microsoft Power BI Tableau.
+       	  Integrate all your data using Tableau Odoo Connector. Works with Odoo Sh also. Tableu tablu tablue Power BI.
        """,
 
     'description': """
-       Connects your Tableau directly with Odoo. Microsoft Power BI Tableau.
+       Integrate all your data using Tableau Odoo Connector. Works with Odoo Sh also. Tableu tablu tablue Power BI Tableau.
     """,
         
     'maintainer': 'Tableau TN',
